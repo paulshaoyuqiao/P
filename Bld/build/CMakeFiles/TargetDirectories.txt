@@ -1,0 +1,8 @@
+/Users/paulshao/P/Bld/build/CMakeFiles/rebuild_cache.dir
+/Users/paulshao/P/Bld/build/CMakeFiles/edit_cache.dir
+/Users/paulshao/P/Bld/build/Prt/CMakeFiles/rebuild_cache.dir
+/Users/paulshao/P/Bld/build/Prt/CMakeFiles/Prt_shared.dir
+/Users/paulshao/P/Bld/build/Prt/CMakeFiles/edit_cache.dir
+/Users/paulshao/P/Bld/build/Prt/CMakeFiles/Prt_static.dir
+/Users/paulshao/P/Bld/build/Prt/CMakeFiles/Prt.dir
+/Users/paulshao/P/Bld/build/Prt/CMakeFiles/libhandler.dir
